@@ -1,0 +1,12 @@
+﻿  Caluclater.cpp
+D:\AllGivno\C++\Calculator_pp_CLI\Caluclater.cpp(175,1): warning C4506: нет определения для подставляемой функции "bool ControllOperators::IsChar(char)"
+  ControllOperators.cpp
+  MyForm.cpp
+D:\AllGivno\C++\Calculator_pp_CLI\MyForm.cpp(11,1): warning C4506: нет определения для подставляемой функции "bool ControllOperators::IsChar(char)"
+D:\AllGivno\C++\Calculator_pp_CLI\MyForm.cpp(11,1): warning C4506: нет определения для подставляемой функции "std::string ControllOperators::AddChar(std::string,char)"
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+D:\AllGivno\C++\Calculator_pp_CLI\Caluclater.cpp(155): warning C4715: CalcValuer::WriteNumbers: значение возвращается не при всех путях выполнения
+D:\AllGivno\C++\Calculator_pp_CLI\Caluclater.cpp(174): warning C4715: CalcValuer::Counting: значение возвращается не при всех путях выполнения
+  Caluclater.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator++.vcxproj -> D:\AllGivno\C++\Calculator_pp_CLI\x64\Debug\Calculator++.exe

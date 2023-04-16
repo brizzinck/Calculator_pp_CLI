@@ -1,0 +1,10 @@
+D:\AllGivno\C++\Calculator++\x64\Debug\Calculator++.vcxproj.AssemblyReference.cache
+D:\AllGivno\C++\Calculator++\x64\Debug\Calculator++.vcxproj.SuggestedBindingRedirects.cache
+D:\AllGivno\C++\Calculator++\x64\Debug\Calculator.MyForm.resources
+D:\AllGivno\C++\Calculator++\x64\Debug\Calculator++.vcxproj.GenerateResource.cache
+D:\AllGivno\C++\Calculator++\x64\Debug\Calculator++.exe
+D:\AllGivno\C++\Calculator_pp_CLI\x64\Debug\Calculator++.vcxproj.AssemblyReference.cache
+D:\AllGivno\C++\Calculator_pp_CLI\x64\Debug\Calculator++.vcxproj.SuggestedBindingRedirects.cache
+D:\AllGivno\C++\Calculator_pp_CLI\x64\Debug\Calculator.MyForm.resources
+D:\AllGivno\C++\Calculator_pp_CLI\x64\Debug\Calculator++.vcxproj.GenerateResource.cache
+D:\AllGivno\C++\Calculator_pp_CLI\x64\Debug\Calculator++.exe
